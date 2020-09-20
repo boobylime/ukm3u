@@ -1,1 +1,50 @@
 
+#EXTM3U
+#EXTINF:-1 group-title="English" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png",23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg",24/7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/CKCtZo7.png",30A Investment Pitch
+http://www.30a-tv.com/InvPit.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Music
+http://30a-tv.com/music.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png",30A Sidewalks
+http://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/4TEMhxH.png",30A TV
+http://30a-tv.com/my999.m3u8
+#EXTINF:-1 group-title="English",3ABN KIDS TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 group-title="English",3ABN Latino
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/4ydVVIA.png",3ABN Latino
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png",3News Now (KMTV-TV)
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/k9M5ydW.png",5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/k9M5ydW.png",5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg",Canada Star TV
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/RI9GbLX.jpg",Catholic TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://static.iptv-epg.com/us/FOXKOKI.us.png",FOX 23 Tulsa OK (KOKI-TV)
+http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/KOKI23.png",FOX 23 Tulsa OK (KOKI-TV)
+https://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/master.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG",FOX 28 Savannah GA (WTGS)
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://localtvkdvr.files.wordpress.com/2016/03/fox31denver-kdvr.jpg",FOX 31 Denver CO (KDVR)
+http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="http://www.newstvliveonline.com/wp-content/uploads/2017/10/FOX-40-KTXL.jpg",FOX 40 Sacramento CA (KTXL)
+http://api.new.livestream.com/accounts/9486720/events/3245377/live.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/ShopHQ_2019_Logo.png/200px-ShopHQ_2019_Logo.png",Shop HQ
+https://aos01-evine.secure.footprint.net/evine/cleanfeed/VIDEO_0_2064000.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/826gz7r.jpg",Silence TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/WvNd8yg.png",Sky News
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/WvNd8yg.png",Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
